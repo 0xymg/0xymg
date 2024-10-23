@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Full time thinker, Indie entrepreneur. Tech geek.</p>
+<p align="left">Full time thinker, Indie entrepreneur. Tech geek. Apple fanboy</p>
 
 ###
 
