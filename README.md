@@ -32,8 +32,8 @@
 
 ###
 
-<h3 align="left">Technologies I use</h3>
-<hr />
+<h2 align="left">Technologies I use</h2>
+
 
 ###
 
