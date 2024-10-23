@@ -12,6 +12,7 @@
 
 <p align="left">Full time thinker, Indie entrepreneur. Tech geek. Apple fanboy</p>
 
+<br/>
 ###
 
 <div align="left">
@@ -79,6 +80,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -116,6 +119,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
+###
 ###
 
 <!--
