@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Full time thinker, Indie entrepreneur. Tech geek. Apple fanboy. Aviation addict.</p>
+<p align="left">Full time thinker, Solopreneur. Tech geek. Apple fanboy. Aviation addict.</p>
 
 
 
