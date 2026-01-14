@@ -10,9 +10,21 @@
 
 ###
 
-<p align="left">Full time thinker, Solopreneur. Tech geek. Apple fanboy. Aviation addict.</p>
+<p align="left">
+I build stuff on the internet.  
+Mostly software. Sometimes businesses. Occasionally broken things. 
+</p>
 
 
+- solopreneur
+- software nerd
+- apple enjoyer 🍎
+- aviation geek ✈️
+
+Currently:
+- building SaaS ideas
+- playing with AI
+- trying to ship more than I overthink
 
 
 <div align="left">
