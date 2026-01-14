@@ -15,11 +15,10 @@ I build stuff on the internet.
 Mostly software. Sometimes businesses. Occasionally broken things. 
 </p>
 
-
-- solopreneur
-- software nerd
-- apple enjoyer 🍎
-- aviation geek ✈️
+- Solopreneur
+- Software Engineer
+- Apple fanboy
+- Aviation geek ✈️
 
 Currently:
 - building SaaS ideas
